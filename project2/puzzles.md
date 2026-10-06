@@ -20,7 +20,7 @@ Puzzle 1
 Puzzle 2
 
 1. Final Plaintext:
-   NOT ALL TREASURE IS SILVER AND GOLD
+   NOT ALL TREASURED SILVER AND GOLD MATE
 
 2. Exact Sequence of Operations:
    - Operation 1: Substitution Cipher (Crypto.jpeg CYBERISFUN map)
